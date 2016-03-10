@@ -1,4 +1,4 @@
-package com.github.brandtg;
+package com.choice.rdi;
 
 import org.joda.time.DateTime;
 import org.testng.Assert;

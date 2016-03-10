@@ -16,7 +16,7 @@
  * </p>
  */
 
-package com.github.brandtg;
+package com.choice.rdi;
 
 public class StlConfig {
   // The number of observations in each cycle of the seasonal component, n_p

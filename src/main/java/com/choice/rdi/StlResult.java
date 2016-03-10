@@ -16,7 +16,7 @@
  * </p>
  */
 
-package com.github.brandtg;
+package com.choice.rdi;
 
 /**
  * The STL decomposition of a time series.

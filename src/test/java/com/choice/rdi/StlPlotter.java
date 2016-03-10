@@ -1,4 +1,4 @@
-package com.github.brandtg;
+package com.choice.rdi;
 
 import java.awt.Color;
 import java.awt.GradientPaint;

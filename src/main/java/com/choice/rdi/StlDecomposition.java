@@ -16,7 +16,7 @@
  * </p>
  */
 
-package com.github.brandtg;
+package com.choice.rdi;
 
 import org.apache.commons.math3.analysis.interpolation.LoessInterpolator;
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
